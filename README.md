@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QzD3
 - 👀 I’m interested in video games
-- 🌱 I’m currently learning IT
+- 🌱 I’m currently learning IT on CEET Vasco Coutinho
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me ... don't
 - 😄 Pronouns: un/happy
