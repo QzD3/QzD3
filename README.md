@@ -10,4 +10,4 @@
 QzD3/QzD3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-(https://github-readme-stats.vercel.app/api?username=QzD3)(https://github.com/QzD3/github-readme-stats)
+![QzD3 GitHub stats](https://github-readme-stats.vercel.app/api?username=QzD3&show_icons=true&theme=merko)
