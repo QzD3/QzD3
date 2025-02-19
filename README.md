@@ -11,3 +11,6 @@ QzD3/QzD3 is a ✨ special ✨ repository because its `README.md` (this file) ap
 You can click the Preview link to take a look at your changes.
 --->
 ![QzD3 GitHub stats](https://github-readme-stats.vercel.app/api?username=QzD3&show_icons=true&theme=merko)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QzD3&layout=pie)](https://github.com/QzD3/github-readme-stats)
