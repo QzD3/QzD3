@@ -2,9 +2,9 @@
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning IT on CEET Vasco Coutinho
 - 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me ... don't
-- 😄 Pronouns: un/happy
-- ⚡ Fun fact: you will perish
+- 📫 How to reach me ... E-MAIL: quesede.belomoreira@gmail.com || Telephone: +55 (27) 99796-2492
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I adapt myself through everything... every. thing.
 
 <!---
 QzD3/QzD3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
