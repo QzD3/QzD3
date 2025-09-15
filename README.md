@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning IT on CEET Vasco Coutinho
 - 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me ... E-MAIL: quesede.belomoreira@gmail.com || Telephone: +55 (27) 99796-2492
+- 📫 How to reach me ... E-MAIL: quesede.belomoreira@gmail.com || Telephone: +55 (27) 98801-4081
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I adapt myself through everything... every. thing.
 
